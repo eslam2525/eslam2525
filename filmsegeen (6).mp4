@@ -1,0 +1,137 @@
+<!DOCATYPE HTML>
+<html data-brackets-id='5396'>
+<head data-brackets-id='5397'>
+<title data-brackets-id='5398'>amazon website</title>
+
+    <link data-brackets-id='5399' rel="stylesheet" type="text/css" href="style.css" >
+     <link data-brackets-id='5400' href="css/all.css">
+</head>
+ <body data-brackets-id='5401'>
+    
+  <header data-brackets-id='5402'>
+   <div data-brackets-id='5403' class="logo-div">
+      <a data-brackets-id='5404' href="home.html">
+       <img data-brackets-id='5405' class="logoimg" alt="logo">
+       </a>
+      </div>  
+   
+         <span data-brackets-id='5406' class="span">select your adress </span>
+      
+         <div data-brackets-id='5407' class="input">
+         
+         <input data-brackets-id='5408' type="search">
+      </div>
+      
+      <div data-brackets-id='5409'> hellow ,
+      <a data-brackets-id='5410' href="">sign in 
+          accout </a>
+      </div>
+      
+      
+      
+      <div data-brackets-id='5411'>
+      <a data-brackets-id='5412'>
+        <img data-brackets-id='5413' src="" alt="flag ">  </a>
+      </div>
+      
+      
+      <a data-brackets-id='5414' href="">return and order</a>
+      
+      
+      
+     <div data-brackets-id='5415'> 
+     <a data-brackets-id='5416' href ="">
+         
+         <img data-brackets-id='5417' src="" alt="cart icon " >
+         </a> 
+      </div>
+     </header>  
+
+   <nav data-brackets-id='5418'>
+   <a data-brackets-id='5419' href="#">all</a>  
+    <a data-brackets-id='5420' href="#">best seller</a> 
+    <a data-brackets-id='5421' href="#">customer service</a> 
+    <a data-brackets-id='5422' href="#">prime</a> 
+     <a data-brackets-id='5423' href="#">new release</a>
+     <a data-brackets-id='5424' href="#">pharmacy </a>
+     <a data-brackets-id='5425' href="#"> book</a>  
+     <a data-brackets-id='5426' href="#">today deals </a>  
+     <a data-brackets-id='5427' href="#">fashion </a>  
+      <a data-brackets-id='5428' href="#">kindle book</a> 
+       <a data-brackets-id='5429' href="#">last-minue school supplies </a>
+    
+       
+     </nav> 
+    <div data-brackets-id='5430' class="banner_color"><img data-brackets-id='5431' class="banner " src ="amazonimage/71CbOQ6A-HL._SX3000_.jpg" width="1000px" height="300px"></div> 
+     
+     
+     
+   
+   <div data-brackets-id='5432' class="container">
+   <div data-brackets-id='5433'><img data-brackets-id='5434' src="amazonimage/movies%202.jpeg">
+       <p data-brackets-id='5435'>frozzenII MOVIES 2020</p>
+       <a data-brackets-id='5436' class="watch_now" href="video/filmsegeen.mp4" target="_self">WATCH NOW </a><br data-brackets-id='5437'>
+       <a data-brackets-id='5438' CLASS="dOWnload" href="" download="filmsegeen.mp4"> DOWNLOAD </a>
+       
+       </div>
+
+   <div data-brackets-id='5439'><img data-brackets-id='5440' src="amazonimage/movies%205.jpeg">
+       <p data-brackets-id='5441'> space jax movies 2018 </p> 
+        <a data-brackets-id='5442' class="watch_now" href="">WATCH NOW </a>
+       
+       </div>
+     
+   <div data-brackets-id='5443'><img data-brackets-id='5444' src="amazonimage/movies%204.jpeg">
+       
+        <p data-brackets-id='5445'> barb star movies 2020</p>
+       <a data-brackets-id='5446' class="watch_now" href="">WATCH NOW </a>
+       
+       
+       </div>
+         
+    <div data-brackets-id='5447'><img data-brackets-id='5448' src="amazonimage/movies%203.jpeg"></div>
+         
+        <div data-brackets-id='5449'><img data-brackets-id='5450' src="amazonimage/movies6.jpeg"></div> 
+
+          <div data-brackets-id='5451'><img data-brackets-id='5452' src="amazonimage/movies7.jpeg"></div> 
+       
+    <div data-brackets-id='5453'><img data-brackets-id='5454' src="amazonimage/movies8.jpeg"></div>
+         
+        <div data-brackets-id='5455'><img data-brackets-id='5456' src="amazonimage/movies9.jpeg"></div> 
+
+          <div data-brackets-id='5457'><img data-brackets-id='5458' src="amazonimage/movies10.jpeg"></div>    
+       
+      <div data-brackets-id='5459'><img data-brackets-id='5460' src="amazonimage/movies%202.jpeg"></div> 
+           <div data-brackets-id='5461'><img data-brackets-id='5462' src="amazonimage/movies11.jpeg"></div>
+           <div data-brackets-id='5463'><img data-brackets-id='5464' src="amazonimage/movies12.jpeg"></div>
+           <div data-brackets-id='5465'><img data-brackets-id='5466' src="amazonimage/movies13.jpeg"></div>
+           <div data-brackets-id='5467'><img data-brackets-id='5468' src="amazonimage/movies14.jpeg"></div>
+           <div data-brackets-id='5469'><img data-brackets-id='5470' src="amazonimage/movies15.jpeg"></div>
+           <div data-brackets-id='5471'><img data-brackets-id='5472' src="amazonimage/movies16.jpeg"></div>
+       
+     </div>   
+     
+     
+     
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+  
+    
+    </body>   
+    
+    
+    
+</html>
