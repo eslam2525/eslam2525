@@ -3,17 +3,16 @@
 .social{
    background-color:snow;
     text-align: center;
-    background-image:url(amazonimage/bannermovies.jpe);
+    background-image:url();
     background-size: contain;
+    border: none;
     
 
 
     
 }
 
-.social:hover{
-    
-}
+
 
  .social p{
      background-color: black;
@@ -27,18 +26,20 @@
 
 
 header{
-            background-color: midnightblue ;
+           background-color: midnightblue;
             color: aliceblue;
-            padding:10px;
-            margin:;
-            border-radius: 10px;
+        
+        
+    
             
         }
             
-        a{
+         a{
             
-          color: aliceblue; 
+        color: aliceblue; 
         text-decoration: none;
+            border: none;
+            
             
                 
         }
@@ -48,6 +49,7 @@ header div {
     display:inline-grid;
     height: 50px;
     padding: 10px;
+    border: none;
     
     
     
@@ -134,10 +136,9 @@ form{
             
         }
         
- nav a:hover ,nav:hover{
-    color: deepskyblue;
+ nav a:hover{
+    color:black;
      background-color:crimson;
-     border-color: darkcyan;
      border: solid 2px yellow ;
      
     
@@ -147,8 +148,8 @@ form{
         
         .container{
             display: inline;
-            margin: 10px;
-            padding: 10px;
+            text-align: center;
+            
                 
             
         }
@@ -171,29 +172,38 @@ form{
             
         }
         
-        .banner_color{
-    background-image: linear-gradient(gray , skyblue, gray)
-        }
+    
+.container img:hover{
+    border-radius: 100px
+}  
+        
         
         
         body{
             
-           background-image: linear-gradient(0deg, red, skyblue);
+           background-image: linear-gradient(20deg,gray,skyblue,gray,gray,skyblue,gray,skyblue,red,gray,skyblue,gray,red);
             font-family: sans-serif;
         }
         
         .container div {
         margin: 10px;
             padding: 10px;
-            display: inline-grid
+            display: inline-grid;
     
         }
         
 .video_content{
-    
-    text-align: center;
-    margin: 10px;
+    margin: 20px;
+    padding: 10px;
     border: solid 2px yellow ;
+    display: inline-grid;
+}
+
+video{
+    width: 400px;
+    height: 250px;
+
+    
 }
     
 h2{
@@ -262,13 +272,13 @@ h2{
     
     
     margin: 10px;
-    font-size: 3em;
+    font-size:3em;
     
 }
 
 
 img:hover{
-    border-radius: 100px;
+    border
     
 }
 
@@ -277,5 +287,50 @@ img:hover{
 
     
     
+}
+
+.fa-play-circle{
+    
+    color: red;
+    background-color: aliceblue;
+
+    
+    
+    
+}
+
+.fa-download{
+    
+    color: darkslategray;
+
+    
+    
+}
+
+
+.container a:hover{
+    
+color: blue
+    
+}
+
+div{
+    border:solid 5px ;
+}
+
+.logo-div ,.container{
+    border: none;
+}
+
+div:hover{
+    border: 10px;
+    
+    
+    
+}
+
+
+
+
 }
 
